@@ -1,2 +1,2 @@
 # lrn2code
-Edumacation, take 2
+Edumacation, third time's the charm
